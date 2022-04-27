@@ -3,7 +3,7 @@
 
 *This website is only for practicing personal skills only!*
 
-Front-end webpage using **React, styled-components**
+Front-end webpage by **React, styled-components**
 
 Pages currently have:
 - Home page

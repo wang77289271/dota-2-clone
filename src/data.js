@@ -115,6 +115,27 @@ export const language = [
 
 export const newsBlogs = [
   {
+    id: 7,
+    date: 'June 24, 2022',
+    title: 'Dota 2 Short Film Contest',
+    desc: 'We're happy to announce that submissions are now open for this year's Dota 2 Short Film Contest. Filmmakers have until 3:00pm PDT on September 4, 2022 to submit their short film...',
+    img: 'https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/3703047/05930771557c4c6b9815063975b6dbc18c1704a8.jpg',
+  },
+  {
+    id: 6,
+    date: 'June 21, 2022',
+    title: 'Chest of Endless Days',
+    desc: 'Today's update introduces a treasure drop that features thirteen all-new item sets — the Chest of Endless Days.',
+    img: 'https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/3703047/37974dcd7b699b864a8c8a21a79b5720443e0465.png',
+  }, 
+  {
+    id: 5,
+    date: 'June 21, 2022',
+    title: 'Summer 2022 Workshop Call to Arms',
+    desc: 'Summer is just around the corner and now that the Battle Report Update is live, we're setting our sights on future releases.',
+    img: 'https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/3703047/5b040beb9a647a5f51bb117794af3ffc16785b09.png',
+  },
+  {
     id: 4,
     date: 'November 23, 2021',
     title: 'DPC Winter 2022 Tour',

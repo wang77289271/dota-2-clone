@@ -125,8 +125,8 @@ export const newsBlogs = [
     id: 6,
     date: 'June 21, 2022',
     title: 'Chest of Endless Days',
-    desc: `Today's update introduces a treasure drop that features thirteen all-new item sets — the Chest of Endless Days.',
-    img: 'https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/3703047/37974dcd7b699b864a8c8a21a79b5720443e0465.png`,
+    desc: `Today's update introduces a treasure drop that features thirteen all-new item sets — the Chest of Endless Days.`,
+    img: 'https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/3703047/37974dcd7b699b864a8c8a21a79b5720443e0465.png',
   },
   {
     id: 5,

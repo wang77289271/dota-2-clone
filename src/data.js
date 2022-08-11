@@ -115,6 +115,27 @@ export const language = [
 
 export const newsBlogs = [
   {
+    id: 10,
+    date: 'August 11, 2022',
+    title: 'Tickets for The International - Saturday, August 13',
+    desc: `As the Arlington Major approaches its conclusion, more and more teams have now officially qualified to The International in Singapore this October.`,
+    img: 'https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/3703047/9c84f2a2182fab3130e45771f42655f40c6f5dd7.jpg',
+  },
+  {
+    id: 9,
+    date: 'August 11, 2022',
+    title: "DOTA: Dragon's Blood Season 3 Released",
+    desc: `Witness the thrilling conclusion to the battle for the Dota universe in the third season of DOTA: Dragon's Blood, now streaming on Netflix.`,
+    img: 'https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/3703047/b379c4ceb1ec82db9c1d01ea4c7f1765aea9e0dd.png',
+  },
+  {
+    id: 8,
+    date: 'August 3, 2022',
+    title: 'The Arlington Major & The Road to the International',
+    desc: `The Summer Tour of the DPC draws to a close, and The Arlington Major offers the best teams in the world a final chance at DPC points before the competitive road reaches The...`,
+    img: 'https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/3703047/17e3e74c5f323f431ec172c81940e81ad52588b3.jpg',
+  },
+  {
     id: 7,
     date: 'June 24, 2022',
     title: 'Dota 2 Short Film Contest',
